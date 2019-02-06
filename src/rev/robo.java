@@ -40,5 +40,7 @@ public class robo
 				
 		System.out.println("Successfully Entered");
 		
+		System.out.println("Uploaded on github successfully");
+		
 	}
 }
